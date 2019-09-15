@@ -1,6 +1,5 @@
 
-This application is built as a server side of a Web Of Things project By Hamadi Rabie an ICT Engineer.
-
+This application is built as a server side part of a Web Of Things project.
 ## Usage
 
 mongod --auth --bind_ip 127.0.0.1 
